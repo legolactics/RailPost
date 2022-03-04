@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg baseProfile='full' xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 595.28 608.03" id="templatemaker-giftbox" width="21.0cm" height="21.45cm">
+<title>Gift Box</title>
+<defs>
+	<style type='text/css'>
+		text{  font-family:  -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Segoe UI Symbol"; font-weight: 400; }
+</style></defs>
+<g id="page" transform="translate(0,0)">
+	<g class="pagetext" font-size="10">
+		<text x="28.346456692913385" y="14.173228346456693"><tspan font-weight="600">Gift Box </tspan>7×5×2 (cm)</text>
+		<text x="28.346456692913385" y="598" >templatemaker.nl (C) Please, refer to the very permissive license!</text>
+	</g>
+	<g id="page-fold" class="fold" fill='none' stroke='#00adee' stroke-width='0.75' >
+		<path id="page-fold-hor-1" d="M 198.43 396.82 L 396.85 396.82"/>
+		<path id="page-fold-hor-2" d="M 396.85 340.13 L 198.43 340.13"/>
+		<path id="page-fold-glue-hor-left" d="M 56.69 198.39 L 538.58 198.39"/>
+		<path id="page-fold-glue-vert-left" d="M 538.58 198.39 L 538.58 141.7"/>
+		<path id="page-fold-dust-r" d="M 538.58 141.7 L 396.85 141.7"/>
+		<path id="page-fold-dust-l" d="M 198.43 141.7 L 56.69 141.7"/>
+		<path id="page-fold-glue-vert-right" d="M 56.69 141.7 L 56.69 198.39"/>
+		<path id="page-fold-ver-l" d="M 198.43 198.39 L 198.43 141.7"/>
+		<path id="page-fold-ver-r" d="M 396.85 141.7 L 396.85 198.39"/>
+		<path id="page-fold-tuck-fold" d="M 215.43 535.72 L 379.84 535.72"/>
+	</g>
+	<g id="page-cut" class="cut" fill='none' stroke='#d41a5a' stroke-width='2' >
+		<path id="page-cut-tuck" d="M 198.43 538.55 L 212.6 538.55 L 215.43 535.72"/>
+		<path id="page-cut-tuck-slit2" d="M 379.84 535.72 L 382.68 538.55 L 396.85 538.55"/>
+		<path id="page-cut-tuck-tuck" d="M 199.84 538.55 L 199.84 551.31 A 28.35 28.35 0 0 0 228.19 579.65 L 367.09 579.65 A 28.35 28.35 0 0 0 395.43 551.31 L 395.43 538.55"/>
+		<path id="page-cut-front-left" d="M 396.85 538.55 L 396.85 396.82 L 396.85 340.13 L 396.85 198.39"/>
+		<path id="page-cut-left" d="M 396.85 198.39 L 398.27 198.39 L 403.27 226.74 L 538.58 226.74 L 538.58 198.39 L 538.58 196.98 L 566.93 191.98 L 566.93 148.12 L 538.58 143.12 L 538.58 141.7"/>
+		<path id="page-cut-north" d="M 538.58 141.7 L 530.08 133.2 L 523.88 62.33 L 420.64 62.33 L 403.93 124.69 L 398.26 130.36 L 398.26 141.7 L 396.85 141.7 L 311.81 141.7 L 311.81 141.7 A 3.54 3.54 0 0 0 308.26 145.25 L 308.26 145.25 L 308.26 145.25 A 10.63 10.63 0 0 1 297.63 155.88 L 297.63 155.88 A 10.63 10.63 0 0 1 287.0 145.25 L 287.0 145.25 L 287.0 145.25 A 3.54 3.54 0 0 0 283.46 141.7 L 283.46 141.7 L 198.42 141.7 L 197.0 141.7 L 197.0 130.36 L 191.34 124.69 L 174.62 62.33 L 71.39 62.33 L 65.19 133.2 L 56.69 141.7"/>
+		<path id="page-cut-right" d="M 56.69 141.7 L 56.69 143.12 L 28.35 148.12 L 28.35 191.98 L 56.69 196.98 L 56.69 198.39 L 56.69 226.74 L 192.01 226.74 L 197.01 198.39 L 198.43 198.39"/>
+		<path id="page-cut-front-right" d="M 198.43 198.39 L 198.43 340.13 L 198.43 396.82 L 198.43 538.55"/>
+	</g>
+	<g id="page-labels" class="labels" fill='#75777a' stroke='none' >
+<text dominant-baseline="middle" text-anchor="middle" font-family="sans-serif" font-size="1.1" text-decoration="none" transform="translate(468.43,28.31) rotate(-180)"></text><text dominant-baseline="middle" text-anchor="middle" font-family="sans-serif" font-size="1.1" text-decoration="none" transform="translate(127.56,28.32) rotate(-180)"></text>	</g>
+</g>
+</svg>
