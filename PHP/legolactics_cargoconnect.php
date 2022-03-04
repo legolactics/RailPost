@@ -4,10 +4,10 @@
 // https://www.flaticon.com/packs/user-interface-828
 
 // 1.- IDENTIFICACION nombre de la base, del usuario, clave y servidor
-$db_host="mysql.omicsuab.org";
+$db_host="myhost";
 $db_name="legolactics_cargoconnect";
-$db_login="legolactics";
-$db_pswd="cargoconnect";
+$db_login="myusername";
+$db_pswd="mypassword";
 
 // 2.- CONEXION A LA BASE DE DATOS
 $link = new mysqli($db_host, $db_login, $db_pswd, $db_name);
