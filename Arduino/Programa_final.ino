@@ -36,17 +36,12 @@ void setup() {
 void loop() {
 abcd = balanza.get_units(20),3;
 
-    if (abcd > 100){
-      delay(1000);
+ if (abcd > 100){
+      delay(500);
     pes = abcd;
-    
-    
-    if (abcd > 100){
-      
-    delay (2000);
-    
+    delay(2000);
     }
-    }
+    
 
   int cm1 = ping(Trigger1, Echo1);
   int cm2 = pang(Trigger2, Echo2);
