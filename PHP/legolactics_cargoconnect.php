@@ -60,6 +60,12 @@ if ($boton == "btnActualitzarEstat"){
     $id = $_GET['id'];
     $estat = $_GET['estat'];
 	
+	$query="SELECT destinacio, receptor FROM paquets INNER JOIN usuaris_paquets ON paquets.id=usuaris_paquets.id WHERE id='$id'";
+	$result = mysqli_query($link, $query);
+	$paquet = mysqli_fetch_row($result);
+	$destinacio = $paquet[0];
+	$receptor = $paquet[1];	
+	
 	// si estat està buit, agafem un espai lliure automàticament
 	if ($estat == "") {
 		$query="SELECT DISTINCT estat FROM paquets WHERE estat REGEXP '^[0-9]+$'";
@@ -94,7 +100,13 @@ if ($boton == "btnActualitzarEstat"){
 		
 	$query="update paquets set data_recepcio=now(), estat='$estat' WHERE id='$id'";
 	$result = mysqli_query($link, $query);
-	print($print);
+	
+	if ($estat == "Recollit") {
+		print($print);
+	} else {
+		print($print.",".$destinacio.",".$receptor);
+	}
+	
 	mysqli_close($link);
 }
 
