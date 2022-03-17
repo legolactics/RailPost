@@ -8,7 +8,7 @@ Més informació: https://sites.google.com/view/railpost
 
 Vídeo: https://youtu.be/1irX-pqHvYA
 
-======================================================================================================================
+=====================================================================
 
 -ESP-
 RailPost es una infraestructura eficiente, ágil y respetuosa con el medio ambiente para la distribución y recogida de productos utilizando la red de trenes. Permite el envío local de productos de forma sencilla y flexible, y también sirve de intermediaria con compañías de transporte nacional e internacional.
